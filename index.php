@@ -40,7 +40,7 @@
     <div id="main-copy">
       <h1 id="introduction" style="border-top: none; padding-top: 0;">Introduction</h1>
       <p> <strong>English Bits and Bobs </strong> is my personal Web Page to be used as a repository for all things related to my English classes and for English topics in general.</p>
-      <img src="assets/images/KMad2.png" alt="Jason's Photo" border='0' width="200" height="150"/>
+      <img src="assets/images/KMad2.png" alt="Jason's Photo" border='0' width="300" height="300"/>
       <p>Well that's me in the foto above, taken a couple of years ago in Madrid. </p>
          
       <p>I have decided to create this web page to improve my newly found skills in web programming and as an example I have selected my English students as a sort of guinea pig.</p>
